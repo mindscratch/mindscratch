@@ -1,0 +1,25 @@
+baseurl = "http://craigwickesser.com/"
+languageCode = "en-us"
+title = "craigwickesser.com"
+theme = "hyde"
+copyright = "Craig Wickesser"
+
+[Author]
+	name = "Craig Wickesser"
+
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+	code = "/:filename/"
+
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+
+[params]
+	description = " "
+	twitter = "https://twitter.com/mind_scratch"
+	github = "https://github.com/mindscratch"
+	gplus = "https://plus.google.com/+CraigWickesser"
+	disqus = "codecraig"
+	logo = "/images/Mindscratch_150.png"
