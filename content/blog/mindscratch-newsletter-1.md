@@ -9,6 +9,7 @@ type = "post"
   name = "Craig Wickesser"
   uri = "https://plus.google.com/+CraigWickesser"
 series = ["Mindscratch Newsletter"]
+draft = true
 +++
 
 On a regular basis, hopefully once per week, I'll be posting links to
